@@ -1,0 +1,22 @@
+%|▏         | 1/79 [00:14<19:06, 14.71s/it]
+Epsilon 0 | Perturbed Accuracy: 100.00%
+  1%|▏         | 1/79 [00:15<19:52, 15.29s/it]
+Epsilon 25 | Perturbed Accuracy: 100.00%
+  1%|▏         | 1/79 [00:14<19:26, 14.95s/it]
+Epsilon 50 | Perturbed Accuracy: 100.00%
+  1%|▏         | 1/79 [00:14<19:16, 14.82s/it]
+Epsilon 75 | Perturbed Accuracy: 100.00%
+  1%|▏         | 1/79 [00:15<20:32, 15.80s/it]
+Epsilon 100 | Perturbed Accuracy: 99.22%
+  1%|▏         | 1/79 [00:13<18:08, 13.96s/it]
+Epsilon 125 | Perturbed Accuracy: 96.09%
+  1%|▏         | 1/79 [00:15<20:06, 15.47s/it]
+Epsilon 150 | Perturbed Accuracy: 89.06%
+  1%|▏         | 1/79 [00:15<19:42, 15.16s/it]
+Epsilon 175 | Perturbed Accuracy: 78.91%
+  1%|▏         | 1/79 [00:14<19:04, 14.68s/it]
+Epsilon 200 | Perturbed Accuracy: 64.06%
+  1%|▏         | 1/79 [00:15<19:42, 15.16s/it]
+Epsilon 225 | Perturbed Accuracy: 48.44%
+  1%|▏         | 1/79 [00:14<18:45, 14.43s/it]
+Epsilon 250 | Perturbed Accuracy: 38.28%
